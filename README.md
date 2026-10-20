@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful projects, 
 - 🌱 **Currently learning:** Modern software development techniques and best practices.
 - 👯 **Looking to collaborate on:** Open-source projects and interesting developer tools.
 - 💬 **Ask me about:** Tech, coding, and continuous learning.
-- 📬 **How to reach me:** [adriana07@gmail.com](mailto:adriana07@gmail.com)
+- 📬 **How to reach me:** [adriana07@graduate.utm.my](mailto:adriana07@graduate.utm.my)
 
 ---
 
