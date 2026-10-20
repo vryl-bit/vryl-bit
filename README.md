@@ -1,6 +1,6 @@
 # Hi there, I'm Nurin Adriana 👋
 
-CS (Data Engineering) Student at Universiti Teknologi Malaysia (UTM) 🎓
+Computer Science (Data Engineering) Student at Universiti Teknologi Malaysia (UTM) 🎓
 
 ---
 
