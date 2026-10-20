@@ -10,7 +10,7 @@ Computer Science (Data Engineering) Student at Universiti Teknologi Malaysia (UT
 - 🌱 **Currently learning:** Python, Database Systems, SQL, and Data Structures.
 - 👯 **Looking to collaborate on:** Open-source data engineering, data processing, and beginner-friendly projects.
 - 💬 **Ask me about:** Tech, data engineering, and learning to code.
-- 📬 **How to reach me:** [adriana07@graduate.utm.my](mailto:adriana07@graduate.utm.my) | [https://www.linkedin.com/in/vryl](https://www.linkedin.com/in/vryl)
+- 📬 **How to reach me:** [adriana07@graduate.utm.my](mailto:adriana07@graduate.utm.my)
 
 ---
 
