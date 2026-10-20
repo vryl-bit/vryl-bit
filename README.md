@@ -30,13 +30,6 @@ Computer Science (Data Engineering) Student at Universiti Teknologi Malaysia (UT
 
 ---
 
-### 📊 GitHub Stats
-
-![Nurin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vryl-bit&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vryl-bit&layout=compact&theme=radial)
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vryl)
